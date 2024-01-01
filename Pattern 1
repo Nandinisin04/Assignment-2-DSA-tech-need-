@@ -4,6 +4,8 @@ public class Pattern{
             for (int star = 1 ; star<=line; star++){
                 System.out.println("*");
             }
+            System.out.println()
         }
     }
 }
+        
